@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="default" verbose="1" >
+  <test name="test" >
+    <classes>
+      <class name="demo.NewTest"/>
+      
+      
+    </classes>
+ </test>
+</suite>
